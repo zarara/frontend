@@ -1,3 +1,8 @@
+## Page view
+Located in folder resources/views/master/app.blade.php
+1. You must runnging laravel with artisan serve 
+2. Then on browser use url localhost:8000/app
+
 <p align="center"><img src="https://laravel.com/assets/img/components/logo-laravel.svg"></p>
 
 <p align="center">
